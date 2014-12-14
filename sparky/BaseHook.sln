@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BaseHook", "BaseHook.vcxproj", "{44127F41-6D14-42C5-BABF-4B695BE17C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44127F41-6D14-42C5-BABF-4B695BE17C41}.Debug|Win32.ActiveCfg = Debug|Win32
+		{44127F41-6D14-42C5-BABF-4B695BE17C41}.Debug|Win32.Build.0 = Debug|Win32
+		{44127F41-6D14-42C5-BABF-4B695BE17C41}.Release|Win32.ActiveCfg = Release|Win32
+		{44127F41-6D14-42C5-BABF-4B695BE17C41}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
